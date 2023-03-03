@@ -1,0 +1,121 @@
+3004 Crop and Pasture Production
+3006 Food Sciences
+3007 Forestry Sciences
+3101 Biochemistry and Cell Biology
+3102 Bioinformatics and Computational Biology
+3103 Ecology
+3104 Evolutionary Biology
+3105 Genetics
+3106 Industrial Biotechnology
+3107 Microbiology
+3108 Plant Biology
+3109 Zoology
+3201 Cardiovascular Medicine and Haematology
+3202 Clinical Sciences
+3204 Immunology
+3205 Medical Biochemistry and Metabolomics
+3206 Medical Biotechnology
+3207 Medical Microbiology
+3208 Medical Physiology
+3209 Neurosciences
+3211 Oncology and Carcinogenesis
+3214 Pharmacology and Pharmaceutical Sciences
+3215 Reproductive Medicine
+3301 Architecture
+3302 Building
+3303 Design
+3304 Urban and Regional Planning
+3401 Analytical Chemistry
+3402 Inorganic Chemistry
+3403 Macromolecular and Materials Chemistry
+3404 Medicinal and Biomolecular Chemistry
+3405 Organic Chemistry
+3406 Physical Chemistry
+3502 Banking, Finance and Investment
+3507 Strategy, Management and Organisational Behaviour
+3509 Transportation, Logistics and Supply Chains
+3601 Art History, Theory and Criticism
+3605 Screen and Digital Media
+3701 Atmospheric Sciences
+3705 Geology
+3707 Hydrology
+3708 Oceanography
+3709 Physical Geography and Environmental Geoscience
+3801 Applied Economics
+3802 Econometrics
+3803 Economic Theory
+3901 Curriculum and Pedagogy
+3903 Education Systems
+4001 Aerospace Engineering
+4003 Biomedical Engineering
+4004 Chemical Engineering
+4005 Civil Engineering
+4006 Communications Engineering
+4007 Control Engineering, Mechatronics and Robotics
+4008 Electrical Engineering
+4009 Electronics, Sensors and Digital Hardware
+4010 Engineering Practice and Education
+4011 Environmental Engineering
+4012 Fluid Mechanics and Thermal Engineering
+4016 Materials Engineering
+4018 Nanotechnology
+4101 Climate Change Impacts and Adaptation
+4102 Ecological Applications
+4104 Environmental Management
+4105 Pollution and Contamination
+4201 Allied Health and Rehabilitation Science
+4203 Health Services and Systems
+4205 Nursing
+4206 Public Health
+4207 Sports Science and Exercise
+4301 Archaeology
+4302 Heritage, Archive and Museum Studies
+4303 Historical Studies
+4402 Criminology
+4403 Demography
+4404 Development Studies
+4405 Gender Studies
+4406 Human Geography
+4407 Policy and Administration
+4408 Political Science
+4410 Sociology
+4602 Artificial Intelligence
+4603 Computer Vision and Multimedia Computation
+4604 Cybersecurity and Privacy
+4605 Data Management and Data Science
+4606 Distributed Computing and Systems Software
+4608 Human-Centred Computing
+4611 Machine Learning
+4612 Software Engineering
+4613 Theory Of Computation
+4701 Communication and Media Studies
+4702 Cultural Studies
+4703 Language Studies
+4704 Linguistics
+4705 Literary Studies
+4801 Commercial Law
+4803 International and Comparative Law
+4804 Law In Context
+4805 Legal Systems
+4806 Private Law and Civil Obligations
+4807 Public Law
+4901 Applied Mathematics
+4902 Mathematical Physics
+4904 Pure Mathematics
+5001 Applied Ethics
+5002 History and Philosophy Of Specific Fields
+5003 Philosophy
+5004 Religious Studies
+5005 Theology
+5101 Astronomical Sciences
+5102 Atomic, Molecular and Optical Physics
+5104 Condensed Matter Physics
+5106 Nuclear and Plasma Physics
+5107 Particle and High Energy Physics
+5108 Quantum Physics
+5109 Space Sciences
+5110 Synchrotrons and Accelerators
+5201 Applied and Developmental Psychology
+5202 Biological Psychology
+5204 Cognitive and Computational Psychology
+5205 Social and Personality Psychology

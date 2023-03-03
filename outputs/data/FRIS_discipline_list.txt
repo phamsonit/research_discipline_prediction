@@ -1,0 +1,37 @@
+0101 Mathematical sciences
+0102 Information and computing sciences
+0103 Physical sciences
+0104 Chemical sciences
+0105 Earth sciences
+0106 Biological sciences
+0107 Environmental sciences
+0199 Other natural sciences
+0201 Civil and building engineering
+0202 Electrical and electronic engineering
+0203 Mechanical and manufacturing engineering
+0204 (Bio)chemical engineering
+0205 Materials engineering
+0206 (Bio)medical engineering
+0207 Biotechnology, bio-engineering and biosystems engineering
+0208 Computer engineering, information technology and mathematical engineering
+0299 Other engineering and technology
+0301 Basic sciences
+0302 Clinical sciences
+0303 Health sciences
+0304 Paramedical sciences
+0305 Pharmaceutical sciences
+0306 Translational sciences
+0401 Agriculture, forestry, fisheries and allied sciences
+0402 Veterinary sciences
+0501 Psychology and cognitive sciences
+0502 Economics and business
+0503 Pedagogical and educational sciences
+0504 Sociology and anthropology
+0505 Law and legal studies
+0506 Political sciences
+0508 Media and communications
+0599 Other social sciences
+0601 History and archaeology
+0602 Languages and literary studies
+0603 Philosophy, ethics and religious studies
+0604 Arts
