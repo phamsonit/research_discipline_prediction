@@ -1,5 +1,5 @@
 """
-A metadata based framework for discipline prediction and interdisciplinarity calculation
+A metadata based framework for discipline prediction and interdisciplinarity measure
 author: Hoang Son Pham, ECOOM-Hasselt University
 email: hoangson.pham@uhasselt.be
 """
@@ -14,15 +14,14 @@ from sklearn.multioutput import MultiOutputClassifier
 from sklearn.neighbors import KNeighborsClassifier
 from top2vec import Top2Vec
 
-
-import topic_model_llda_implementation as labeled_lda
-from data_preprocessing import label_encoding
-from recommendation import recommend_disciplines, calculate_predicted_discipline_diversity
-from text_processing import text_preprocessing
-from topic_diversity import create_distance_matrix
-from topic_model_lda import train_lda, lda_get_doc_topic_matrix, lda_extract_topics_words
-from topic_model_llda import predict_discipline_proba, load_llda_model
-from topic_model_top2vec import top2vec_get_doc_topic_matrix
+from topic_models import topic_model_llda_implementation as labeled_lda
+from reprocessing.data_preprocessing import label_encoding
+from recommendation.recommendation import recommend_disciplines, calculate_predicted_discipline_diversity
+from reprocessing.text_processing import text_preprocessing
+from topic_models.topic_diversity import create_distance_matrix
+from topic_models.topic_model_lda import train_lda, lda_get_doc_topic_matrix, lda_extract_topics_words
+from topic_models.topic_model_llda import load_llda_model
+from topic_models.topic_model_top2vec import top2vec_get_doc_topic_matrix
 from ultil import load_distance_matrix, load_discipline_list
 
 
