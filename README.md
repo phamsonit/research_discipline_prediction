@@ -1,0 +1,4 @@
+# research_discipline_prediction
+This is the implementation of the framework which is described in the paper "A Metadata-Based Approach for Research Discipline Prediction Using Machine Learning Techniques and Distance Metrics".
+, 2023, doi: 10.1109/ACCESS.2023.3287935.Citation: H. -S. Pham, H. Poelmans and A. Ali-Eldin, "A Metadata-Based Approach for Research Discipline Prediction Using Machine Learning Techniques and Distance Metrics," in IEEE Access, vol. 11, pp. 61995-62012, 2023, doi: 10.1109/ACCESS.2023.3287935.Citation: H. -S. Pham, H. Poelmans and A. Ali-Eldin, "A Metadata-Based Approach for Research Discipline Prediction Using Machine Learning Techniques and Distance Metrics," in IEEE Access, vol. 11, pp. 61995-62012, 2023, doi: 10.1109/ACCESS.2023.3287935.
+Link to the paper: https://ieeexplore.ieee.org/document/10156853
